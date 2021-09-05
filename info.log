@@ -1,0 +1,154 @@
+
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:04:46.866Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.877Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.880Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.883Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.886Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.890Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.893Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.896Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.901Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:04:46.947Z"}
+{"message":"Time of excution: Started - 1630836286874 Ended-1630836286947","level":"info","timestamp":"2021-09-05T10:04:46.950Z"}
+{"message":"Time of completion: 73ms","level":"info","timestamp":"2021-09-05T10:04:46.952Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:04:46.954Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:04:46.960Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:04:47.010Z"}
+{"message":"Time of excution: Started - 1630836286957 Ended-1630836287010","level":"info","timestamp":"2021-09-05T10:04:47.013Z"}
+{"message":"Time of completion: 53ms","level":"info","timestamp":"2021-09-05T10:04:47.015Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:16:44.825Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.834Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.838Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.841Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.844Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.847Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.851Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.854Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.860Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:16:44.902Z"}
+{"message":"Time of excution: Started - 1630837004832 Ended-1630837004902","level":"info","timestamp":"2021-09-05T10:16:44.905Z"}
+{"message":"Time of completion: 70ms","level":"info","timestamp":"2021-09-05T10:16:44.908Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:16:44.910Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:16:44.916Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:16:44.956Z"}
+{"message":"Time of excution: Started - 1630837004912 Ended-1630837004956","level":"info","timestamp":"2021-09-05T10:16:44.958Z"}
+{"message":"Time of completion: 44ms","level":"info","timestamp":"2021-09-05T10:16:44.961Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:19:44.598Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.609Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.612Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.615Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.618Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.622Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.625Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.628Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.634Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:19:44.684Z"}
+{"message":"Time of excution: Started - 1630837184606 Ended-1630837184684","level":"info","timestamp":"2021-09-05T10:19:44.687Z"}
+{"message":"Time of completion: 78ms","level":"info","timestamp":"2021-09-05T10:19:44.689Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:19:44.692Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:19:44.697Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:19:44.749Z"}
+{"message":"Time of excution: Started - 1630837184694 Ended-1630837184748","level":"info","timestamp":"2021-09-05T10:19:44.751Z"}
+{"message":"Time of completion: 54ms","level":"info","timestamp":"2021-09-05T10:19:44.754Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:29:52.708Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.718Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.721Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.724Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.727Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.730Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.734Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.737Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.743Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:29:52.794Z"}
+{"message":"Time of excution: Started - 1630837792715 Ended-1630837792794","level":"info","timestamp":"2021-09-05T10:29:52.797Z"}
+{"message":"Time of completion: 79ms","level":"info","timestamp":"2021-09-05T10:29:52.799Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:29:52.801Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:29:52.807Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:29:52.857Z"}
+{"message":"Time of excution: Started - 1630837792803 Ended-1630837792857","level":"info","timestamp":"2021-09-05T10:29:52.860Z"}
+{"message":"Time of completion: 54ms","level":"info","timestamp":"2021-09-05T10:29:52.862Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:30:06.667Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.677Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.680Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.683Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.686Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.689Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.693Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.696Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.701Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:30:06.747Z"}
+{"message":"Time of excution: Started - 1630837806674 Ended-1630837806747","level":"info","timestamp":"2021-09-05T10:30:06.750Z"}
+{"message":"Time of completion: 73ms","level":"info","timestamp":"2021-09-05T10:30:06.752Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:30:06.754Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:30:06.760Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:30:06.813Z"}
+{"message":"Time of excution: Started - 1630837806757 Ended-1630837806813","level":"info","timestamp":"2021-09-05T10:30:06.816Z"}
+{"message":"Time of completion: 56ms","level":"info","timestamp":"2021-09-05T10:30:06.818Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:31:23.699Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.715Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.722Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.727Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.731Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.735Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.738Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.741Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.747Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:31:23.807Z"}
+{"message":"Time of excution: Started - 1630837883712 Ended-1630837883807","level":"info","timestamp":"2021-09-05T10:31:23.809Z"}
+{"message":"Time of completion: 95ms","level":"info","timestamp":"2021-09-05T10:31:23.813Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:31:23.817Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:31:23.825Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:31:23.900Z"}
+{"message":"Time of excution: Started - 1630837883820 Ended-1630837883900","level":"info","timestamp":"2021-09-05T10:31:23.903Z"}
+{"message":"Time of completion: 80ms","level":"info","timestamp":"2021-09-05T10:31:23.905Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:34:52.397Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.408Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.411Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.417Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.420Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.424Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.427Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.430Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.435Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:34:52.477Z"}
+{"message":"Time of excution: Started - 1630838092404 Ended-1630838092477","level":"info","timestamp":"2021-09-05T10:34:52.479Z"}
+{"message":"Time of completion: 73ms","level":"info","timestamp":"2021-09-05T10:34:52.482Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:34:52.485Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:34:52.491Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:34:52.546Z"}
+{"message":"Time of excution: Started - 1630838092487 Ended-1630838092546","level":"info","timestamp":"2021-09-05T10:34:52.549Z"}
+{"message":"Time of completion: 59ms","level":"info","timestamp":"2021-09-05T10:34:52.552Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:37:44.135Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.151Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.160Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.164Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.170Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.175Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.180Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.184Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.190Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:37:44.263Z"}
+{"message":"Time of excution: Started - 1630838264145 Ended-1630838264263","level":"info","timestamp":"2021-09-05T10:37:44.266Z"}
+{"message":"Time of completion: 118ms","level":"info","timestamp":"2021-09-05T10:37:44.268Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:37:44.273Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:37:44.280Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:37:44.329Z"}
+{"message":"Time of excution: Started - 1630838264275 Ended-1630838264329","level":"info","timestamp":"2021-09-05T10:37:44.332Z"}
+{"message":"Time of completion: 54ms","level":"info","timestamp":"2021-09-05T10:37:44.334Z"}
+{"message":"Normal Output result","level":"info","timestamp":"2021-09-05T10:39:39.543Z"}
+{"message":"g901 cannot be matched with Jason because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.555Z"}
+{"message":"g901 cannot be matched with Billy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.558Z"}
+{"message":"g901 cannot be matched with Tommy because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.561Z"}
+{"message":"g901 cannot be matched with Zack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.564Z"}
+{"message":"g901 cannot be matched with Jack because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.568Z"}
+{"message":"g901 cannot be matched with Sboniso because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.572Z"}
+{"message":"g901 cannot be matched with Nkosi because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.576Z"}
+{"message":"g901 cannot be matched with Syabonga because is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.582Z"}
+{"message":"Result printed on output.txt file","level":"info","timestamp":"2021-09-05T10:39:39.629Z"}
+{"message":"Time of excution: Started - 1630838379552 Ended-1630838379629","level":"info","timestamp":"2021-09-05T10:39:39.631Z"}
+{"message":"Time of completion: 77ms","level":"info","timestamp":"2021-09-05T10:39:39.633Z"}
+{"message":"Reverse output result","level":"info","timestamp":"2021-09-05T10:39:39.636Z"}
+{"message":"g901 is badly formmated. The name should only contain letters.","level":"info","timestamp":"2021-09-05T10:39:39.642Z"}
+{"message":"Result printed on ReverseOutput.txt file","level":"info","timestamp":"2021-09-05T10:39:39.690Z"}
+{"message":"Time of excution: Started - 1630838379638 Ended-1630838379690","level":"info","timestamp":"2021-09-05T10:39:39.695Z"}
+{"message":"Time of completion: 52ms","level":"info","timestamp":"2021-09-05T10:39:39.697Z"}

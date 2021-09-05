@@ -1,0 +1,96 @@
+Jill matches Jack 96%, good match
+Smangela matches Tommy 92%, good match
+Thokozile matches Zack 92%, good match
+Billy matches Sboniso 91%, good match
+Jill matches Syabonga 91%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Londeka matches Jason 91%, good match
+Londeka matches Nkosi 91%, good match
+Londeka matches Tommy 91%, good match
+Nomvelo matches Billy 91%, good match
+Nomvelo matches Jason 91%, good match
+Nomvelo matches Nkosi 91%, good match
+Nomvelo matches Tommy 91%, good match
+Nqobile matches Billy 91%, good match
+Nqobile matches Jason 91%, good match
+Nqobile matches Nkosi 91%, good match
+Nqobile matches Tommy 91%, good match
+Andile matches Billy 81%, good match
+Andile matches Jason 81%, good match
+Andile matches Nkosi 81%, good match
+Andile matches Tommy 81%, good match
+Jill matches Sboniso 81%, good match
+Londeka matches Jack 81%, good match
+Londeka matches Zack 81%, good match
+Nomvelo matches Jack 81%, good match
+Nomvelo matches Zack 81%, good match
+Nqobile matches Jack 81%, good match
+Nqobile matches Zack 81%, good match
+Masibonge matches Sboniso 77%
+Andile matches Jack 71%
+Andile matches Zack 71%
+Billy matches Jason 71%
+Billy matches Nkosi 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Smangela matches Jason 65%
+Smangela matches Jack 64%
+Smangela matches Zack 64%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Nkosi 61%
+Jill matches Zack 60%
+Trini matches Sboniso 55%
+Trini matches Jason 53%
+Trini matches Nkosi 53%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Zack 52%
+Kimberly matches Syabonga 50%
+Thokozile matches Syabonga 42%
+Andisiwe matches Sboniso 31%
+Nomvelo matches Syabonga 31%
+Masibonge matches Syabonga 24%
+Smangela matches Syabonga 23%
+Thokozile matches Sboniso 23%
+Kimberly matches Sboniso 22%
+Londeka matches Syabonga 22%
+Nqobile matches Syabonga 22%
+Smangela matches Sboniso 22%
+Londeka matches Sboniso 21%
+Masibonge matches Billy 21%
+Masibonge matches Jason 21%
+Masibonge matches Nkosi 21%
+Masibonge matches Tommy 21%
+Nomvelo matches Sboniso 21%
+Nqobile matches Sboniso 21%
+Thokozile matches Billy 21%
+Thokozile matches Jason 21%
+Thokozile matches Nkosi 21%
+Thokozile matches Tommy 21%
+Andile matches Sboniso 20%
+Andisiwe matches Jason 20%
+Andisiwe matches Nkosi 20%
+Andisiwe matches Tommy 20%
+Billy matches Syabonga 20%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Nkosi 20%
+Kimberly matches Tommy 20%
+Masibonge matches Jack 20%
+Masibonge matches Zack 20%
+Smangela matches Billy 20%
+Smangela matches Nkosi 20%
+Thokozile matches Jack 20%
+Trini matches Syabonga 20%
+Andisiwe matches Syabonga 14%
+Andile matches Syabonga 12%
+Andisiwe matches Billy 11%
+Andisiwe matches Jack 10%
+Andisiwe matches Zack 10%
+Londeka matches Billy 10%

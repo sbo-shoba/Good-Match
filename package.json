@@ -1,0 +1,27 @@
+{
+  "name": "tennis-tournament",
+  "version": "1.0.0",
+  "description": "Good Match",
+  "main": "GoodMatch.js",
+  "main for web": "GoodMatchWeb.js",
+  "Front end (Web)": "GoodMatch.html",
+  "filename for input from CSV": "InputFile.csv",
+  "filename for output print": "output.txt",
+  "filename for output print in reverse": "ReverseOutput.txt",
+  "filename for logger output": "info.log",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sboniso Shoba",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "prompt": "^1.2.0",
+    "prompt-sync": "^4.2.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
